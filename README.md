@@ -8,4 +8,13 @@
 </p>
  
 <h3>Descrição:</h3>
-<p></p>
+<p>É um card com efeitos de transição que ao passar o mouse mudam de posição e tamanho.</p>
+
+<p>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
+<p/>
+
+<h3>Funcionalidade:</h3>
+<p>
+<img src="assets/cardgif.gif"/>
+</p>
