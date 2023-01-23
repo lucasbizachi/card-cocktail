@@ -19,4 +19,4 @@
 <img src="assets/cardgif.gif"/>
 </p>
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://lucasbizachi.github.io/card-cocktail/)
